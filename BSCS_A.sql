@@ -16,8 +16,8 @@ values
 (1973 , 'Faheem' , 68 , 'A' , 'Multan'),
 (1974 , 'Ahmad' , 69 , 'C' , 'Lahore'),
 (1975 , 'Ali' , 70 , 'B' , 'Multan'),
-(1976 , 'Hassan' , 71 , 'D' , 'Multan'),
-(1977 , 'Farukh' , 71 , 'A' , 'Multan'),
+(1976 , 'Hamza' , 71 , 'D' , 'Multan'),
+(1977 , 'Farukh' , 72 , 'C' , 'Multan'),
 (1978 , 'Hasnain' , 73 , 'A' , 'Multan'),
 (1979 , 'Junaid' , 74 , 'A' , 'Multan'),
 (1980 , 'Manzar' , 75 , 'A' , 'Multan');
