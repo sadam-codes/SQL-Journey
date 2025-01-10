@@ -1,0 +1,33 @@
+VSCode Extensions for MERN stack develooper (#Full Stack):
+
+
+1) esbenp.prettier-vscode
+2) formulahendry.auto-close-tag
+3) hex-ci.stylelint-plus
+4) dbaeumer.vscode-eslint
+5) naumovs.color-highlight
+6) DigitalBrainstem.javascript-ejs-support
+7) ritwickdey.LiveServer
+8) erikphansen.vscode-toggle-column-selection
+9) file-icons
+10) live server
+11) auto rename tag
+12) babel javascript
+13) dotenv official+vault
+14) ES7 React/Redux/GraphQl/React-Native snippets
+15) postman
+16) prettier
+17) tailwind CSS intellicence
+18) thunder-client
+19) toggle-cloumn selection
+20) vscode-icons
+21) prettify-JSON
+22) JAVASCRIPT (ES6) code snippet
+23) emojisense
+24) EJS language support
+25) Material Icon Theme
+26) Indent-Rainbow
+27) Simple React Snippets
+28) Format on Save
+29) intellicode
+30) github copilot
